@@ -24,4 +24,4 @@ skbehera@immt.res.in
 
 ## Keywords
 
-Plasmas; Monitoring; Deep learning; Convolutional neural networks; Smelting; Fluid flow; Image processing; Arc plasma; Classification images; CNN; Process monitoring
+Plasmas;Monitoring;Deep learning;Convolutional neural networks;Smelting;Fluid flow;Image processing;Arc plasma;classification images;convolutional neural network (CNN);deep learning;monitoring;process parameter
